@@ -1,33 +1,33 @@
 # iOSAppPermissions
 
-Contacts
+•Contacts
 
-Calendars
+•Calendars
 
-Reminders
+•Reminders
 
-Photos
+•Photos
 
-Motion activity and fitness
+•Motion activity and fitness
 
-Location Services
+•Location Services
 
-Apple Music
+•Apple Music
 
-Your music and video activity
+•Your music and video activity
 
-Social media accounts, such as Twitter and Facebook
+•Social media accounts, such as Twitter and Facebook
 
-Microphone
+•Microphone
 
-Camera
+•Camera
 
-HomeKit
+•HomeKit
 
-Health
+•Health
 
-Speech recognition
+•Speech recognition
 
-Bluetooth sharing
+•Bluetooth sharing
 
-Your media library
+•Your media library
